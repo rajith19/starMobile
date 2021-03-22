@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "227616667689",
+    "project_id": "starmobile-4fb32",
+    "storage_bucket": "starmobile-4fb32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227616667689:android:30dfc06ea83c44bfcb8438",
+        "android_client_info": {
+          "package_name": "com.example.starmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227616667689-te4ebb17g8vt1ia53678852eml6qvc44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFhfsOShEsFhtwNA2eDghEiPmz-cyZCSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227616667689-te4ebb17g8vt1ia53678852eml6qvc44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
